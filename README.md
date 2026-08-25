@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @PRANAY07GIT
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Pranay
 
-<!---
-PRANAY07GIT/PRANAY07GIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student
+💻 Aspiring Software Developer
+
+### 💻 Technologies
+Python | C | SQL | HTML | CSS | JavaScript
+
+### 🚀 Projects
+Smart Parking Management System
+Smart Waste Management System
+Face ID Attendance Management System
+E-Commerce Data Analysis
+
+### 🌱 Currently Learning
+Machine Learning
+React
+Git & GitHub
+
+### 📊 GitHub
+Building projects and continuously improving my development skills.

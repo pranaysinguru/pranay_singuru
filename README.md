@@ -58,6 +58,15 @@
 </p>
 
 
+## 🌱 Currently Exploring
+
+- 📊 Data Analytics and Data Visualization
+- 🤖 Machine Learning and Artificial Intelligence
+- 🐍 Advanced Python Programming
+- 🗄️ Big Data Technologies
+- 💻 Software Development and Problem Solving
+
+
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
@@ -93,6 +102,13 @@ Here are some of the projects I've worked on:
 
 - 💼 LinkedIn: [Pranay Singuru](https://www.linkedin.com/in/pranaysinguru/))
 - 💻 GitHub: [@pranaysinguru](https://github.com/pranaysinguru)
+
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranaysinguru&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 

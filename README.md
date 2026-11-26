@@ -43,6 +43,21 @@
 - Object-Oriented Programming
 
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranaysinguru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysinguru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranaysinguru&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:

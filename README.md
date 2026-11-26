@@ -23,23 +23,25 @@
 
 ## 🧰 Technical Skills
 
-**Programming Languages**
 
-Python • C • C++ • Java
+## 💻 Languages & Technologies
 
-**Web Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,git,github,vscode" />
+</p>
 
-HTML • CSS • JavaScript
+## 🗄️ Database & Analytics
 
-**Database & Analytics**
+- SQL
+- DBMS
+- Power BI
 
-SQL • DBMS • Power BI
+## 🧠 Core Concepts
 
-**Core Concepts**
+- Data Structures & Algorithms
+- Problem Solving
+- Object-Oriented Programming
 
-Data Structures & Algorithms • Problem Solving
-
----
 
 ## 🚀 Projects
 
